@@ -45,7 +45,7 @@ python3 gen_sa_accounts.py --quick-setup -1
 ```
 python3 gen_sa_accounts.py  --download-keys Project ID
 ```
-[`Project ID​`]() နေရာမှာ မိမိ Project IDထည့်
+[`Project ID​`](#) နေရာမှာ မိမိ Project IDထည့်
 
 ```
 python generate_drive_token.py
