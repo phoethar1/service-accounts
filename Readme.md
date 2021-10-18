@@ -1,7 +1,7 @@
 #  android phone အသုံးပြုပြီး service accounts လုပ်နည်း
 
-- [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ
-[Termux Download Link](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
+- [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
+[![](credentials/1.jpg)](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
 install လုပ်ပီးရင် Termux ကိုဖွင့်လိုက်ပါ
 ​အောက်က CMD ​တွေ ရိုက်ထည့်ပါ
 ```
