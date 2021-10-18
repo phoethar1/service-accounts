@@ -1,8 +1,8 @@
-#  android အသုံးပြုပြီး service accounts လုပ်နည်း
+#  android phone အသုံးပြုပြီး service accounts လုပ်နည်း
 
 - [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ
 [Termux Download Link](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
-install လုပ်ပီးရင် Termux ကိုဖွင်လိုက်ပါ
+install လုပ်ပီးရင် Termux ကိုဖွင့်လိုက်ပါ
 ​အောက်က CMD ​တွေ ရိုက်ထည့်ပါ
 ```
 termux-setup-storage
@@ -42,7 +42,9 @@ credentials.json file ကို [Google Console](https://console.cloud.google.co
 ```
 python3 gen_sa_accounts.py --quick-setup -1
 ```
+```
 python3 gen_sa_accounts.py  --download-keys Project ID
+```
 Project ID​နေရာမှာ မိမိ Project IDထည့်
 
 ```
