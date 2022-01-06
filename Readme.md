@@ -3,7 +3,7 @@
 - YouTube Link: [Create Service Accounts Tutorial](https://youtu.be/LGWk-UeW4ls)
 ------
 - [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
-[![](https://telegra.ph/file/815e0c843d2cdb99619bf.gif)version 0.117](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
+[![](https://telegra.ph/file/f302ba135e2cc33b23194.gif)version 0.117](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
 
 install လုပ်ပီးရင် Termux ကိုဖွင့်လိုက်ပါ
 ​အောက်က CMD ​တွေ ရိုက်ထည့်ပါ
